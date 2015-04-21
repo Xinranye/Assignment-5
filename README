@@ -12,3 +12,13 @@ Titanium is Copyright (c) 2009-2013 by Appcelerator, Inc. All Rights Reserved.
 
 Titanium is licensed under the Apache Public License (Version 2). Please
 see the LICENSE file for the full license.
+
+Reviewer1:
+1.The app run on my emulator, so your code is fine.
+2. You use tap as navigation, which is simple and easy to use. 
+3. The color fits well and your detail format is nice. But you can add some space between title and information in detail page.
+4. I do not know how to make a business card, but I remember Lori said we can add some work history or project we ever did, that's 
+   the only thing I can suggest you to improve regard as your content. 
+5. it works on android phone but not work on tablet. The similar code of another person works on both devices. It is super strange.
+
+You did a good job!
